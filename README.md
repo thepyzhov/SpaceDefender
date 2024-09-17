@@ -1,8 +1,8 @@
 # SpaceDefender
 ###### Top-down space shooter
 
-* Upgrade weapons
 * Defeat Invaders
+* Upgrade weapons
 * Beat records
 
 ## Screenshots
